@@ -98,6 +98,7 @@ MyPass uses a vibrant, modern colour scheme:
 
 **Typography Best Practices:**
 
+- Titles and subtitles should be in upper case
 - Rubik's geometric design complements the logo's angular elements
 - Light weight ensures readability in longer content
 - Black weight creates strong visual hierarchy
